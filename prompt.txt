@@ -1,0 +1,10 @@
+I'm building Intraday stock screener for Indian Market right now starting with comodity like Gold.
+I want to build set of functions/tools for analyzing the stock with historical data.
+
+1) I will be providing the csv file as historical data
+2) The data will be of 5min interval data, contains date, time, open, high, low, close, volume
+3) I will be able to switch different interval of time, like from 5min to 10min, 15min, 20min, 25min, 30min, 45min, 1hour, 2hour, 3hour, 5hour, 1day, 2day, 5day, 1week, 2week, 1month, 2month, 3month, 5month, 1year etc ..
+4) first function would be I want to analyze how many time the price went up from open price for a specified percentage, and how many times it went down from open price for a specified percentage, use all open, high, low, close for the calculation.
+5) percentage will be given by the user as a parameter.
+
+
